@@ -1,4 +1,4 @@
-# python-packaging
+# distribute-me
 
 Quick minimal template for building a wheel.
 
